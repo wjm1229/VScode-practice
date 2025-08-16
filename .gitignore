@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.* 
+
+# IDE / 編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS 系統檔案
+.DS_Store
+Thumbs.db
+
+# build / dist 產出
+dist/
+build/
+.cache/
+.temporary/
+out/
+
+# coverage (測試報告)
+coverage/
